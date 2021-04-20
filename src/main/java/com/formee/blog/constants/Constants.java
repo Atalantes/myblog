@@ -1,4 +1,4 @@
-package com.formee.blog.config;
+package com.formee.blog.constants;
 
 /**
  * @Author: Jia Liang
@@ -6,4 +6,5 @@ package com.formee.blog.config;
  * @description: 定义基本常量
  */
 public class Constants {
+
 }
